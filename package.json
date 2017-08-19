@@ -1,0 +1,23 @@
+{
+  "name": "socket_tutorial",
+  "version": "1.0.0",
+  "description": "Practising socket io from nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnconnor31/SocketPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnconnor31/SocketPractice/issues"
+  },
+  "homepage": "https://github.com/johnconnor31/SocketPractice#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.3"
+  }
+}
